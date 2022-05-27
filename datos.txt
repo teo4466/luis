@@ -1,0 +1,30 @@
+escribir en el buscador CMD
+
+luego escribir  desktop/beltrangas/env/scripts  enter
+
+luego escribir  activate    enter
+
+luego escribir CD ../..     enter
+
+escribir  cd backend     enter
+
+escribir python manage.py runserver  enter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
